@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Header{
+  /* claros especificos y simples, sin caracteres especiales */
+  width: 100%;/* ancho, se puede definir mediante porcentajes o pixeles; mejor en porcentaje que en pixceles */
+  height: 10%;/* altura */
+  background-color: #365b77; /* color de fondo*/
+  border: 1px; /* para centrar */
+}
+
+.Section{
+  width: 100%;/* ancho, se puede definir mediante porcentajes o pixeles; mejor en porcentaje que en pixceles */
+  height: 200%;
+  background-color: white;
+  float: left;
+  /* overflow-x: scroll */
+}
