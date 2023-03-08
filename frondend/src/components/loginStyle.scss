@@ -1,0 +1,104 @@
+.formulario{
+    position: absolute;
+    width: 50%;
+    height: 50%;
+
+    background: #D9D9D9;
+
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 28;
+    font-size: 20px;
+    line-height: 29px;
+    color: #006EB4;
+    
+    padding: 10px;
+  margin: 50px auto;
+  max-width: 500px;
+
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  display: block;
+  
+    
+}
+
+
+.confirmButton{
+    position: absolute;
+    width: 160px;
+    height: 50px;
+
+    top: 80%;
+    
+    background: #0069A3;
+    border: #ffffff;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 28;
+    font-size: 24px;
+    line-height: 29px;
+    color: #ffffff;
+    display: table;
+
+}
+
+.container{
+    
+    
+    
+    align-items: center;
+    
+}
+
+.titulo{
+    justify-content: center;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 28;
+    font-size: 24px;
+    line-height: 29px;
+    color: #0e0e0f;
+}
+
+.remember{
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 28;
+    font-size: 20px;
+    line-height: 29px;
+    color: #0f1215;
+    left: 80%;
+    top: 80%;
+}
+
+.input{
+    
+    width: 95%;
+    height: 40px;
+    
+    
+    background: #FCFBFB;
+    border: 1px solid #000000;
+    border-radius: 5px;
+
+
+    
+}
+
+.interior{
+    margin-left: 20px;
+    display: flexbox;
+    align-items: center;
+    margin-top: 30px;
+
+}
+
+.correo{
+    margin-top: 30px;
+}
+
+.contraseña{
+    margin-top: 30px;
+}
