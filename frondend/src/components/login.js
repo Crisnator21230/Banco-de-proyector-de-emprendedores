@@ -27,8 +27,7 @@ function Login(){
                     </div>
                     <button type="submit" className='confirmButton'>Iniciar sesión</button>
                     
-                </div>
-                
+                </div>          
             </form> 
             <div className='remember'>
                 <p>¿Olvidaste tu contraseña?</p>   
